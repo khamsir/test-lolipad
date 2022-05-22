@@ -1,0 +1,17 @@
+.my-color{
+    color: #8362F2;
+}
+
+.pos-relative{
+    position: relative;
+}
+
+.globe{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.globe .v-icon{
+    font-size: 143px !important;
+}
